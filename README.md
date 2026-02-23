@@ -4,6 +4,6 @@
 
 ### Email: shimuliakter877@gmail.com
 
-[ Live url](assignment-06-firebase-authentication.netlify.app)
+[ Live url](https://assignment-06-firebase-authentication.netlify.app)
 
 [overview video link](Provide your assignment overview video link)
